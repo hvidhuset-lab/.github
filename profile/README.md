@@ -6,6 +6,6 @@ Here we share the projects, experiments, and ideas we build together across tech
 
 We hope you enjoy exploring our work as much as we enjoy creating it.
 
-![Pixel art of a couple, a baby, and a cat standing in front of a two-story white house with a Danish flag in the garden](family-house-pixel-art.svg)
+![Pixel art of a couple, a baby, and a cat standing in front of a two-story white house with a Danish flag in the garden](../family-house-pixel-art.svg)
 
 
